@@ -1,0 +1,6 @@
+# This file lists the dependencies required for the project.
+# It specifies the Python packages and their versions.
+
+fastapi==0.68.1
+uvicorn==0.15.0
+python-dotenv==0.19.1
